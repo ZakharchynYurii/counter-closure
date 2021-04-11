@@ -1,0 +1,19 @@
+.app{
+    border: 1px solid rgba(2, 0, 80, 0.63);
+    border-radius: 5px;
+    margin-top: 4rem;
+}
+
+.container{
+    max-width: 600px;
+}
+
+.app-title{
+    font-size: 4rem;
+    color: rgba(2, 0, 80, 0.63);
+}
+
+.score{
+    font-size: 6rem;
+    text-align: center;
+}
